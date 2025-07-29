@@ -1,0 +1,20 @@
+{
+  "name": "idgenerator",
+  "display_name": "ID Generator",
+  "version": "1.0.0",
+  "license": "GPLv2+",
+  "homepage": "https://github.com/zied-Kt-ata/id-genrator",
+  "min_glpi": "10.0",
+  "max_glpi": "10.0.99",
+  "requirements": {
+    "php": {
+      "min": "7.4"
+    }
+  },
+  "authors": [
+    {
+      "name": "Zied Ktata",
+      "email": "zied.ktata@gmail.com"
+    }
+  ]
+}
