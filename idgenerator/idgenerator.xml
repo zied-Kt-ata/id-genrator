@@ -17,7 +17,7 @@ The **ID Generator** plugin for GLPI automatically assigns unique identifiers to
     <homepage>https://github.com/zied-Kt-ata</homepage>
     <download>https://github.com/zied-Kt-ata/id-genrator</download>
     <issues>https://github.com/zied-Kt-ata/id-genrator/issues</issues>
-    <readme>https://votre-site.com/readme/idgenerator</readme>
+    <readme>https://github.com/zied-Kt-ata/id-genrator?tab=readme-ov-file#readme</readme>
     <authors>
         <author>ZIED KTATA</author>
     </authors>
@@ -25,7 +25,7 @@ The **ID Generator** plugin for GLPI automatically assigns unique identifiers to
         <version>
             <num>1.1.4</num>
             <compatibility>~10.0</compatibility>
-            <download_url>https://votre-site.com/downloads/idgenerator-1.1.4.zip</download_url>
+            <download_url>https://github.com/zied-Kt-ata/id-genrator</download_url>
         </version>
     </versions>
     <langs>
