@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+    <name>ID Generator</name>
+    <version>1.1.4</version>
+    <author>Votre Nom</author>
+    <license>GPLv2+</license>
+    <homepage>https://votre-site.com</homepage>
+    <requirements>
+        <glpi><min>10.0</min></glpi>
+        <php><min>7.4</min></php>
+    </requirements>
+</plugin>
