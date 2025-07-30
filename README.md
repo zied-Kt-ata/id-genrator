@@ -97,8 +97,8 @@ The plugin removes its configuration table (glpi_plugin_idgenerator_configs) dur
 
 Support
 
-Issues: Report bugs or issues at [https://votre-site.com/issues](https://github.com/zied-Kt-ata/id-genrator/issues).
-Documentation: Full documentation is available at [https://votre-site.com/readme/idgenerator](https://github.com/zied-Kt-ata/id-genrator?tab=readme-ov-file#readme).
+Issues: Report bugs or issues at https://github.com/zied-Kt-ata/id-genrator/issues.
+Documentation: Full documentation is available at https://github.com/zied-Kt-ata/id-genrator?tab=readme-ov-file#readme.
 Contact: Reach out to the author, ZIED KTATA, via the plugin’s homepage.
 
 License
